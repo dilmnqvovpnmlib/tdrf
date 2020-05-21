@@ -1,0 +1,7 @@
+django<3
+djangorestframework
+django-filter
+ipython
+flake8
+isort
+pygments
